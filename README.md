@@ -1,2 +1,3 @@
 # git-github-practice
 My Git and GitHub practice repository
+Author: Srushti Vhare
